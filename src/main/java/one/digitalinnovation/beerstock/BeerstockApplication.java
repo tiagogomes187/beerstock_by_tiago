@@ -1,13 +1,13 @@
-package com.one.digitalinnovation.beerstock;
+package one.digitalinnovation.beerstock;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BeerstockByTiagoApplication {
+public class BeerstockApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BeerstockByTiagoApplication.class, args);
+		SpringApplication.run(BeerstockApplication.class, args);
 	}
 
 }
